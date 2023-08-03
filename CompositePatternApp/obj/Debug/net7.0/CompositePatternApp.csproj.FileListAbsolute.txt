@@ -1,0 +1,15 @@
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\bin\Debug\net7.0\CompositePatternApp.exe
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\bin\Debug\net7.0\CompositePatternApp.deps.json
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\bin\Debug\net7.0\CompositePatternApp.runtimeconfig.json
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\bin\Debug\net7.0\CompositePatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\bin\Debug\net7.0\CompositePatternApp.pdb
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\obj\Debug\net7.0\CompositePatternApp.csproj.AssemblyReference.cache
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\obj\Debug\net7.0\CompositePatternApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\obj\Debug\net7.0\CompositePatternApp.AssemblyInfoInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\obj\Debug\net7.0\CompositePatternApp.AssemblyInfo.cs
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\obj\Debug\net7.0\CompositePatternApp.csproj.CoreCompileInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\obj\Debug\net7.0\CompositePatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\obj\Debug\net7.0\refint\CompositePatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\obj\Debug\net7.0\CompositePatternApp.pdb
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\obj\Debug\net7.0\CompositePatternApp.genruntimeconfig.cache
+C:\Sudhir\DotNet\DesignPatterns\CompositePattern\CompositePatternApp\obj\Debug\net7.0\ref\CompositePatternApp.dll
